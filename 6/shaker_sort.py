@@ -81,3 +81,5 @@ if __name__ == '__main__':
     
     for i in range(num):
         print(f'x[{i}] = {x[i]}')
+        
+    print("git test")
